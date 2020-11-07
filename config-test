@@ -1,5 +1,0 @@
-server:
- port: 3002
-  
-config:
- info: this is a test config , version=2.0
