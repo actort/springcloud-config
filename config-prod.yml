@@ -2,4 +2,4 @@ server:
   port: 3003
   
 config:
-  info: this is a prod config,version=4.0
+  info: this is a prod config,version=5.0
